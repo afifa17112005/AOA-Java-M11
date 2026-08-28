@@ -27,8 +27,6 @@ If the result is 0, then n is a power of two; otherwise, it is not.
 ```
 /*
 Program to implement Reverse a String
-Developed by: Madhuvathani V
-Register Number:  212223040107
 */
 
 import java.util.Scanner;
